@@ -15,6 +15,7 @@ The Client service is responsible for handling client-related operations and fun
 * POST /clients: Create a new client
 * PUT /clients/{id}: Update an existing client
 * DELETE /clients/{id}: Delete a client by ID
+* SEARCH Example : /clients/{id}/voitures
 
 ## 2. Voiture Service
 ### Description
