@@ -18,7 +18,7 @@ DELETE /clients/{id}: Delete a client by ID
 
 ## 2. Voiture Service
 ### Description
-The Voiture service manages operations related to cars or vehicles.
+The Voiture service manages operations related to cars
 
 #### API Endpoints
 GET /voitures: Retrieve all vehicles
@@ -29,10 +29,10 @@ DELETE /voitures/{id}: Delete a vehicle by ID
 
 
 # Technologies Used
-*Spring Boot* : Framework for building microservices
-*Eureka Server* : Service registration and discovery
-*Gateway* : Routing and API gateway for incoming requests
-*Feign* : Declarative REST client for communication between services
+* *Spring Boot* : Framework for building microservices
+* *Eureka Server* : Service registration and discovery
+* *Gateway* : Routing and API gateway for incoming requests
+* *Feign* : Declarative REST client for communication between services
 
 
 # Getting Started
