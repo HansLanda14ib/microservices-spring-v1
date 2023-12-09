@@ -10,22 +10,22 @@ This project is a demonstration of a microservices architecture using Spring Boo
 The Client service is responsible for handling client-related operations and functionalities.
 
 #### API Endpoints
-GET /clients: Retrieve all clients
-GET /clients/{id}: Retrieve a specific client by ID
-POST /clients: Create a new client
-PUT /clients/{id}: Update an existing client
-DELETE /clients/{id}: Delete a client by ID
+* GET /clients: Retrieve all clients
+* GET /clients/{id}: Retrieve a specific client by ID
+* POST /clients: Create a new client
+* PUT /clients/{id}: Update an existing client
+* DELETE /clients/{id}: Delete a client by ID
 
 ## 2. Voiture Service
 ### Description
 The Voiture service manages operations related to cars
 
 #### API Endpoints
-GET /voitures: Retrieve all vehicles
-GET /voitures/{id}: Retrieve a specific vehicle by ID
-POST /voitures: Create a new vehicle
-PUT /voitures/{id}: Update an existing vehicle
-DELETE /voitures/{id}: Delete a vehicle by ID
+* GET /voitures: Retrieve all vehicles
+* GET /voitures/{id}: Retrieve a specific vehicle by ID
+* POST /voitures: Create a new vehicle
+* PUT /voitures/{id}: Update an existing vehicle
+* DELETE /voitures/{id}: Delete a vehicle by ID
 
 
 # Technologies Used
