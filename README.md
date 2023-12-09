@@ -2,7 +2,8 @@
 
 This project is a demonstration of a microservices architecture using Spring Boot, Eureka Server, Gateway, and Feign for service discovery, routing, and communication between services.
 
-![image](https://github.com/HansLanda14ib/microservices-spring-v1/assets/100965812/b19454bd-0c41-4775-ba72-4e9e6ef0f9f0)
+<img width="689" alt="image" src="https://github.com/HansLanda14ib/microservices-spring-v1/assets/100965812/fa9bdea8-8ef9-43b5-b36a-42d41f94e297">
+
 
 # Services
 ## 1. Client Service
